@@ -1,0 +1,3 @@
+https://devhints.io/bash
+https://devhints.io/grep
+https://vim.rtorr.com/
